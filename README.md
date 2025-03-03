@@ -36,4 +36,4 @@
 
 ## **Дерево SQL**
 
-![Tree SQL](/Tree SQL.png)
+![Tables in the database](/Tree_SQL.png)
